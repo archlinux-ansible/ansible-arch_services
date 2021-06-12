@@ -1,0 +1,6 @@
+---
+
+services__svcs:
+  - docker
+  - sddm
+  - sshd
